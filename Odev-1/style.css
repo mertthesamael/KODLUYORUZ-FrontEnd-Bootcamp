@@ -1,0 +1,36 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+.orange-red{
+  margin-right: 5%;
+  width: 15%;
+  display:inline-block;
+}
+
+.alice-blue{
+  margin-right: 5%;
+  display:inline-block;
+  width: 15%;
+}
+
+.deep-pink{
+  position: absolute;
+  display:inline-block;
+  width: 15%;
+  
+}
+
+li{
+  line-height: 200%;
+}
+
+.main{
+position: relative;
+margin-top: 5%;
+left: 25%;
+}
